@@ -1,6 +1,6 @@
 # ssh-keygen
 
-Personal project. Generate ssh-key for 42school.
+Personal project. Generate ssh-key for 42 school.
 
 ## Use
 ```
